@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Next</string>
+    <string name="msg1">Cities</string>
+    <string name="msg2">colombo</string>
+    <string name="msg3">Galle</string>
+    <string name="msg4">Info</string>
+    <string name="msg5">Images</string>
+    <string name="msg6">Hotels</string>
+    <string name="msg7">Near by Hotels</string>
+</resources>
